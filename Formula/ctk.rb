@@ -1,8 +1,8 @@
 class Ctk < Formula
   desc "Reduce terminal output before it reaches AI assistant context"
   homepage "https://github.com/jackymint/cliTokenKill"
-  url "https://github.com/jackymint/cliTokenKill/archive/refs/tags/v0.25.0.tar.gz"
-  sha256 "81346c729a12296fd0332661fee9be4937b8a91c386fb59d4bd284c62b6ca21a"
+  url "https://github.com/jackymint/cliTokenKill/archive/refs/tags/v0.26.0.tar.gz"
+  sha256 "fa5d7dea94eb77396f75c844c9ba8244e072234654a40235489b2fc271f599e8"
   license "MIT"
 
   depends_on "rust" => :build
